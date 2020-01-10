@@ -57,7 +57,7 @@ that use %{name}.
 
 %prep
 %setup -qc
-%apply_patches
+%autopatch -p1
 
 # Delete binaries
 find . \( -name "*.exe" -o -name "*.dll" \) -delete
