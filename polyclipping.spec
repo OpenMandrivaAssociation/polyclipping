@@ -14,7 +14,7 @@ Release:        1
 Summary:        Polygon clipping library
 Group:          Development/C++
 License:        Boost
-URL:            http://sourceforge.net/projects/polyclipping
+URL:            https://sourceforge.net/projects/polyclipping
 Source0:        http://downloads.sourceforge.net/%{name}/clipper_ver%{version}.zip
 BuildRequires:  cmake
 BuildRequires:  dos2unix
