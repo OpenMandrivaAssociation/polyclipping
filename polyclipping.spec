@@ -9,7 +9,7 @@
 %define devname %mklibname %{name} -d
 
 Name:           polyclipping
-Version:        6.2.1
+Version:        6.4.2
 Release:        1
 Summary:        Polygon clipping library
 Group:          Development/C++
